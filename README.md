@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Glendon Fevier  
 <p align="center">
-  <img src="https://media.giphy.com/media/f9jQLaKJJlTew/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
+
 
 
 💡 Passionate about coding, problem-solving, and building creative projects.  
