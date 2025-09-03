@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Glendon Fevier  
 <p align="center">
-  <img src="GANTI_DENGAN_URL_GIF" width="300"/>
+  <img src="https://media.giphy.com/media/Ipi2pkS7X2r3q/giphy.gif" width="250"/>
 </p>
-
-
 
 
 💡 Passionate about coding, problem-solving, and building creative projects.  
