@@ -13,7 +13,9 @@
 - ☁️ Cloud: **AWS**
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-pacman/main/pacman.svg" width="400"/>
+</p>
 ## 📊 GitHub Analytics  
 
 ![Glendon's GitHub stats](https://github-readme-stats.vercel.app/api?username=glendonfevier&show_icons=true&theme=radical)  
@@ -23,7 +25,7 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glendon-fevier-winata-4587292b6/))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glendon-fevier-winata-4587292b6/)
 
 ---
 
