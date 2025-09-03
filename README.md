@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Glendon Fevier  
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+  <img src="GANTI_DENGAN_URL_GIF" width="300"/>
 </p>
+
 
 
 
