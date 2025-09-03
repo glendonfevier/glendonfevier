@@ -24,5 +24,3 @@
 
 
 ---
-
-✨ _"Code is like art, the more you practice, the more beautiful it becomes."_ ✨
