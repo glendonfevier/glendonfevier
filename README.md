@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Glendon Fevier  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-pacman/main/pacman.svg" width="400"/>
+  <img src="https://media.giphy.com/media/f9jQLaKJJlTew/giphy.gif" width="300"/>
 </p>
+
 
 💡 Passionate about coding, problem-solving, and building creative projects.  
 🌱 Currently learning **Computer Science**.  
