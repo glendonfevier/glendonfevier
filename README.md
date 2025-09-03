@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Glendon Fevier  
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
 </p>
 
 
