@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Glendon+%F0%9F%91%8B;Student+%26+Developer;Building+things+one+bug+at+a+time;Open+to+collabs+%26+projects!" alt="Typing SVG" />
 <br/>
 Glendon Fevier Winata
-<img src="https://komarev.com/ghpvc/?username=glendonfw&color=58a6ff&style=flat-square&label=profile+views" alt="Profile Views"/>
+<img src="[https://komarev.com/ghpvc/?username=glendonfw&color=58a6ff&style=flat-square&label=profile+views" alt="Profile Views](https://instagram.fcgk4-6.fna.fbcdn.net/v/t51.82787-19/529245194_18079334335937325_6136036709244150226_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcgk4-6.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gEVXSul-yp6yqEqp8Lg2TSAe3_yKjciXm0xm8rVMKfkNdNtpibTnSUFkGdKnhzaMYI&_nc_ohc=O9S7zzeCwYMQ7kNvwGQqQxZ&_nc_gid=e-7gvDBlcOOE2uwqllvqwQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Af61ieqzddqyzT7wP1fm-BUMuDFrtf-UgNZkNc4LsVO9oQ&oe=69FD4ED1&_nc_sid=7a9f4b)"/>
 </div>
 
 👨‍💻 About Me
