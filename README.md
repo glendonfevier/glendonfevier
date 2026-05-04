@@ -7,9 +7,9 @@ Glendon Fevier Winata
 
 👨‍💻 About Me =
     "name"     : "Glendon Fevier Winata",<br>
-    "role"     : "Student & Developer",<br>
+    "role"     : "Computer Science student",<br>
     "location" : "Indonesia 🇮🇩",<br>
-    "interests": ["web dev", "software engineering", "problem solving"],<br>
+    "interests": ["software engineering", "problem solving"],<br>
     "status"   : "open to collabs & projects 🟢"<br>
 
 
