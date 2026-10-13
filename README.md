@@ -18,7 +18,6 @@
       <p align="left">
         💻 Passionate about building robust full-stack web apps & exploring local AI tooling.<br>
         🎓 Currently deep-diving into advanced algorithms, database architecture, and software engineering.<br>
-        ☕ Powered by clean code, automation, and continuous learning.
       </p>
     </td>
     <td align="center" width="50%">
