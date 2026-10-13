@@ -36,9 +36,9 @@
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=c,py,js,ts,java,html,css" /><br>
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" /><br>
   <!-- Databases & DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim" />
 </p>
 
 ---
