@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Glendon Fevier Winata 👋</h1>
+<h1 align="center">Hello, I'm Glendon Fevier Winata </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=glendonfevier&style=flat-square&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Coding%20Mode%20%E2%9A%A1-brightgreen?style=flat-square" alt="Status" />
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <em>Undergraduate Computer Science student @ BINUS University | Full-Stack Developer & AI Explorer</em>
+  <em>Undergraduate Computer Science student @ BINUS University | Software Engineering Enthusiast</em>
 </p>
 
 <br>
@@ -38,7 +38,7 @@
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" /><br>
   <!-- Databases & DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -60,9 +60,7 @@
 ---
 
 ### 🎧 Current Vibes & Status
-* **Building:** Scalable full-stack apps & modern web tooling 🚀
-* **Exploring:** Local AI models & CLI automation workflows 🤖
-* **Fun Fact:** Always down for optimizing workflows and clean architecture.
+Masih pemula bos!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,20&height=60&section=footer" />
